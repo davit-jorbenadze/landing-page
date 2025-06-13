@@ -7,4 +7,17 @@
     display: flex;
     justify-content: space-between;
     margin: 20px 100px;
+    gap: 20px;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+}
+
+.footer-text {
+    display: flex;
+    justify-content: center;
+    margin-left: 100px;
+    margin-top: 50px;
 }
